@@ -1,7 +1,7 @@
 # Firmwares for the Jafar
 
 
-Projects:
+Projects: (source for these can be found [here](https://github.com/Kekule-OXC/aladdin-xt-cpld)
 
 **1MB_LPCmod_banks**
     
