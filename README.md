@@ -19,7 +19,7 @@ Jafar is free and open source. Please respect the licenses available in their re
     
 2.  Make sure to apply 3.3V power to the Jafar board. This can be done by plugging it into the LPC port on the Xbox, an external power supply, or a JTAG programmer that can supply power.  A modified Lattice USB programmer or FlashCat are two examples of programmers that can supply power.
     
-3.  Program the CPLD with the  `SVF` or `JED`  file in this repository . It can be programmed with  [UrJTAG](http://urjtag.org/)  using a  [compatible programming cable](http://urjtag.org/book/_system_requirements.html#_supported_jtag_adapters_cables). The general programming sequence in UrJTAG is something like: (Commands written in  **bold**).
+3.  Program the CPLD with the  `SVF` or `JED`  file in this repository . It can be programmed with  [UrJTAG](http://urjtag.org/)  using a  [compatible programming cable](http://urjtag.org/book/_system_requirements.html#_supported_jtag_adapters_cables) for the `SVF` or ispVM for the `JED` files. The general programming sequence in UrJTAG is something like: (Commands written in  **bold**).
     
     **cable usbblaster**  _Type  `help cable`  for other supported cables._  
     **detect**  _To confirm that the cpld is detected._  
