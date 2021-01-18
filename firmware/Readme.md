@@ -5,8 +5,9 @@ Projects:
 
 **1MB_LPCmod_banks**
     
-    Support 1MB SST49LF080A device and split in 2 * 512KB flash banks with the help of a switch connected between the pads marked `1` or adding shorting the solder pad for selection.
-    Optional device disable feature on long power button press by linking the left side of pad `2` to the front panel power button.
+    Support 1MB SST49LF080A device and split in 2 * 512KB flash banks with the help of a switch connected between the pads marked `1` 
+    or adding shorting the solder pad for selection. Optional device disable feature on long power button press by linking the left
+    side of pad `2` to the front panel power button.
     If not interfacing front panel power button, device is always active.
     
 **1MB_LPCmod_OSSupport**
