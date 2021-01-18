@@ -1,6 +1,6 @@
 
 # Jafar
-![Jafar PCB](https://github.com/Kekule-OXC/Jafar/blob/main/images/JAFAR_pcb.jpg?raw-true)
+![Jafar PCB](https://github.com/Kekule-OXC/Jafar/blob/main/images/JAFAR_pcb.jpg?raw=true)
 
 This is a custom board reimagination of the Aladdin chip for the Original Xbox code written by Ryzee119 Ideally. gerbers are available [here](gerbers/jafar_gerber_v2.zip)
 
