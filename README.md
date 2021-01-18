@@ -27,11 +27,9 @@ Jafar is free and open source. Please respect the licenses available in their re
         
 4.  Remove the JTAG programming points.
     
-5.  Remove the flash memory and socket from the Aladdin Chip to expose the required usable IO pads. Be careful not too damage the pads.
-    
-6.  Wire the LCD as per the diagram below.
-    
-7.  Install onto the LPC header in your Xbox. You can either ground the D0 points or attach D0 to the pad on the Jafar chip to drive it correctly using the onboard FET._
+5.  The flash chip needs to either be programmed ahead of time, or can be hot-swapped with an existing chip to program it.
+        
+6.  Install onto the LPC header in your Xbox. You can either ground the D0 points or attach D0 to the pad on the Jafar chip to drive it correctly using the onboard FET._
     
 # BOM
 | Qty | Value/Model | Description | Marking | URL (Passive components provided as sample only) |
