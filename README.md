@@ -39,6 +39,6 @@ Jafar is free and open source. Please respect the licenses available in their re
 | 1 | LC4032V-75TN44CTQFP44 | Mach 4000 series CPLD 32MC | U1 | https://www.digikey.com/short/47m5hh |
 | 1 | SST49LF080A-33-4C-NHEPLCC32_NH_SST_MCH- | PLCC32 LPC flash | U2 | https://www.digikey.com/short/47m54w |
 | 1 | 0805 Resistor ~100ohm | around 100ohm 1.8W 0805 resistor | R1| https://www.digikey.com/short/47m59f |
-| 1 | 0806 LED| any color 0805 LED| LED1 |https://www.digikey.com/short/47m5b2 |
+| 1 | 0805 LED| any color 0805 LED| LED1 |https://www.digikey.com/short/47m5b2 |
 | 1 | IRLML6246TRPBF| N-Channel 20V MOSFET | T1 | https://www.digikey.com/short/47m5zw |
 | 1 | 2x6 female pinheader| 2x6 header| SV1 | https://www.digikey.com/short/47m550 |
