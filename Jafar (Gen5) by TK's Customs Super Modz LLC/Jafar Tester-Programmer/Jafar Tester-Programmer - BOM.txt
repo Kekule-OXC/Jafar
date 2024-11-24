@@ -1,30 +1,31 @@
 BILL OF MATERIALS
 Jafar - Programmer/Tester
 https://github.com/Kekule-OXC/Jafar
+https://tkscustomsupermodz.com/
 -----------------------------------
 
--CPLD Socket - Yamaichi IC51-0444-467
---for Lattice CPLD chip - LC4032V-75TN44-10I - IC CPLD 32MC 7.5NS 44TQFP
+(1) - CPLD Socket - Yamaichi IC51-0444-467
+--for use with Lattice CPLD chip - LC4032V-75TN44-10I - IC CPLD 32MC 7.5NS 44TQFP
 
--PLCC32 Socket - PLCC-32-at-smt
---for 1mb SST Flash Memory chip - SST49LF080A-33-4C-NHE - IC FLASH 8M PARALLEL PLCC32
+(1) - PLCC32 Socket - PLCC-32-at-smt
+--for use with 1mb SST Flash Memory chip - SST49LF080A-33-4C-NHE - IC FLASH 8M PARALLEL PLCC32
 
--Micro Switches - C&K - OS102011MA1QN1
+(4) - Micro Switches - C&K - OS102011MA1QN1
 
--LEDS - 0805 SMD
+(1) - LED - 0805 SMD
 
--RESISTORS - 0805 SMD 1% 1/8W 
+(1) - RESISTOR - 0805 SMD 1% 1/8W 
 --For Red, Orange, Yellow LED's (2.0-2.2v) - 56Ω resistors
 --For Green, Blue, Purple, Pink, White LED's (3.0-3.6v) - 15Ω resistors
 
 Program Wires
--SOCKET - JST - SM06B-SRSS-TB
--WIRE HARNESS - JST - SHR-06V-S-B (100mm / single head)
--FEMALE HEADER - 2.54mm Pitch DC3 IDC FC Female - 10 pin (100mm / single head)
--CPLD PROGRAMMER - HW-USBN-2A Jtag SPI Programmer Kit for LATTICE FPGA CPLD
+(1) - SOCKET - JST - SM06B-SRSS-TB
+(1) - WIRE HARNESS - JST - SHR-06V-S-B (100mm / single head)
+(1) - FEMALE HEADER - 2.54mm Pitch DC3 IDC FC Female - 10 pin (100mm / single head)
+(1) - CPLD PROGRAMMER - HW-USBN-2A Jtag SPI Programmer Kit for LATTICE FPGA CPLD
 
 Test Wires
--SOCKET - JST - SM10B-SRSS-TB
--WIRE HARNESS - JST - SHR-10V-S-B (100mm / single head)
--FEMALE HEADER - PPTC062LFBN-RC - CONN HDR 12POS 0.1 TIN PCB (2x6)
--MALE HEADER (For Install on Xbox Motherboard) - 2.54mm Double Row Male 2X6
+(1) - SOCKET - JST - SM10B-SRSS-TB
+(1) - WIRE HARNESS - JST - SHR-10V-S-B (100mm / single head)
+(1) - FEMALE HEADER - PPTC062LFBN-RC - CONN HDR 12POS 0.1 TIN PCB (2x6)
+(1) - MALE HEADER (For Install on Xbox Motherboard) - 2.54mm Double Row Male 2X6
